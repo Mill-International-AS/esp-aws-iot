@@ -3,4 +3,5 @@ license: 'Apache-2.0'
 supplier: 'Organization: Espressif Systems (Shanghai) CO LTD'
 originator: 'Organization: Espressif Systems (Shanghai) CO LTD'
 description: 'ESP-IDF port of the AWS IoT Device Defender library - client library for using the AWS IoT Device Defender service on embedded devices.'
+version: '1.4.0'
 url: https://github.com/espressif/esp-aws-iot
