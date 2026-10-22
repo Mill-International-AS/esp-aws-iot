@@ -3,4 +3,5 @@ license: 'Apache-2.0'
 supplier: 'Organization: Espressif Systems (Shanghai) CO LTD'
 originator: 'Organization: Espressif Systems (Shanghai) CO LTD'
 description: 'ESP-IDF port of the corePKCS11 library - software implementation of the PKCS #11 standard.'
+version: '3.6.3'
 url: https://github.com/espressif/esp-aws-iot
